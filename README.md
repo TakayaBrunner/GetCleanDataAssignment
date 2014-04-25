@@ -55,4 +55,5 @@ Data Field Definitions
 ****************************************************
 Output:
 The script ouputs a text file that is comma delimited without row names 
-in a file titled "tidyData.txt" into your current working directory.
+and column names in first row in a file titled "tidyData.txt" into your 
+current working directory.
