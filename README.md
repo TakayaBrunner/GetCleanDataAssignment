@@ -30,7 +30,7 @@ Assumptions:
 4) The order of records within the subject_* and y_* data sets 
    properly matches the order of records within x_* data sets.
 5) The only fields we care about are those with field names containing mean() or std().
-6) Assumes you have internet to download the reshape2 and plyr packages.
+6) Assumes you have already installed the plyr and reshape2 packages.
 
 
 ****************************************************
